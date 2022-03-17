@@ -1,0 +1,43 @@
+{
+  "name": "react-typescript-quiz-app",
+  "version": "1.0.0",
+  "description": "Quiz App built with React and Typescript",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "axios": "0.21.0",
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
+    "react-scripts": "3.3.0",
+    "save": "^2.4.0",
+    "styled-components": "5.2.1"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.19",
+    "@types/react-dom": "16.9.5",
+    "@types/styled-components": "^5.1.24",
+    "typescript": "^3.9.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sajeeb360/react-typescript-quiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sajeeb360/react-typescript-quiz/issues"
+  },
+  "homepage": "https://github.com/sajeeb360/react-typescript-quiz#readme"
+}
